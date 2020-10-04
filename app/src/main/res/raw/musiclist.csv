@@ -11,6 +11,7 @@ MASTER,niconico,初音ミクの激唱,13.7
 MASTER,東方Project,Calamity Fortune,13.7
 MASTER,VARIETY,Finite,13.9
 MASTER,VARIETY,神威,13.9
+MASTER,VARIETY,SON OF SUN,13.9
 MASTER,VARIETY,Fracture Ray,13.7
 MASTER,VARIETY,Grievous Lady,13.7
 MASTER,VARIETY,ouroboros-twin stroke of the end-,13.7
@@ -23,6 +24,7 @@ MASTER,VARIETY,Dengeki Tube,13.9
 MASTER,VARIETY,Doppelganger,13.8
 MASTER,VARIETY,End Time,13.9
 MASTER,VARIETY,水晶世界 ～Fracture～,13.7
+MASTER,VARIETY,Giselle,13.9
 MASTER,ゲキマイ,Garakuta Doll Play,13.8
 MASTER,ゲキマイ,AMAZING MIGHTYYYY!!!!,13.8
 MASTER,ゲキマイ,VERTeX,13.7
@@ -58,6 +60,7 @@ MASTER,ORIGINAL,GIGA DRIVE,13.9
 MASTER,ORIGINAL,Surrogate Life,13.9
 MASTER,ORIGINAL,Trackless wilderness,13.9
 MASTER,ORIGINAL,Walzer für das Nichts,13.8
+MASTER,ORIGINAL,Megameteor,13.9
 MASTER,POPS&ANIME,ぶいえす!!らいばる!!,13.2
 MASTER,POPS&ANIME,ジングルベル,13.3
 MASTER,niconico,ハイセンスナンセンス,13.3
@@ -180,10 +183,11 @@ MASTER,ORIGINAL,まごころのカスクルゥト,13.1
 MASTER,ORIGINAL,absolute rightness,13.6
 MASTER,ORIGINAL,せかいせいふく！ゆりあちゃん！,13.5
 MASTER,ORIGINAL,《運命》 ～ Ray of Hope,13.4
+MASTER,ORIGINAL,Fidget Dancer,13.4
 EXPERT,ORIGINAL,混沌を越えし我らが神聖なる調律主を讃えよ,13.3
 EXPERT,ORIGINAL,業 -善なる神とこの世の悪について-,13.2
 EXPERT,ORIGINAL,Killing Rhythm,13.2
-EXPERT,ORIGINAL,Rebellion,13.1
+MASTER,POPS&ANIME,Bull's Eye,12.7
 MASTER,POPS&ANIME,ストライク・ザ・ブラッド,12.7
 MASTER,POPS&ANIME,Deal with the devil,12.7
 MASTER,POPS&ANIME,TREAT OR TREAT?,12.7
@@ -226,6 +230,7 @@ MASTER,東方Project,東方妖々夢～the maximum moving about～,12.7
 MASTER,東方Project,少女幻葬戦慄曲～ Necro Fantasia,12.7
 MASTER,東方Project,Jimang Shot,12.7
 MASTER,東方Project,四次元跳躍機関,12.7
+MASTER,VARIETY,Memory of Beach,12.7
 MASTER,VARIETY,Axium Crisis,12.7
 MASTER,VARIETY,Altale,12.7
 MASTER,VARIETY,The Formula,12.7
@@ -234,6 +239,8 @@ MASTER,VARIETY,Say A Vengeance,12.7
 MASTER,VARIETY,JULIAN,12.7
 MASTER,VARIETY,Black Lair,12.7
 MASTER,VARIETY,Funny Funky Freaky,12.7
+MASTER,VARIETY,音弾超人ゴリライザー,12.9
+MASTER,VARIETY,Life is PIANO,12.7
 MASTER,イロドリミドリ,Bang Babang Bang!!!,12.8
 MASTER,イロドリミドリ,-OutsideR:RequieM-,12.7
 MASTER,イロドリミドリ,一世嬉遊曲‐ディヴェルティメント‐,12.8
@@ -271,8 +278,12 @@ MASTER,ORIGINAL,【冒険】イングリット葛西降臨！【実況】,12.7
 MASTER,ORIGINAL,レーイレーイ,12.7
 MASTER,ORIGINAL,《混乱》 ～ Muspell,12.8
 MASTER,ORIGINAL,《逃避》 ～ The Deserter,12.9
+MASTER,ORIGINAL,ヴンダーカンマー,12.9
+MASTER,ORIGINAL,Destination,12.8
 EXPERT,VARIETY,神威,12.7
+EXPERT,VARIETY,SON OF SUN,12.7
 EXPERT,VARIETY,End Time,12.7
+EXPERT,VARIETY,Giselle,12.8
 EXPERT,ゲキマイ,YURUSHITE,12.7
 EXPERT,ORIGINAL,神威 (NAOKI × ZPP MIX),12.7
 EXPERT,ORIGINAL,怒槌,12.8
@@ -283,6 +294,10 @@ EXPERT,ORIGINAL,folern,12.7
 EXPERT,ORIGINAL,Climax,12.7
 EXPERT,ORIGINAL,GIGA DRIVE,12.7
 EXPERT,ORIGINAL,Nijirate Fanatics,12.7
+MASTER,POPS&ANIME,Rightfully,12.6
+MASTER,POPS&ANIME,巫女みこナース・愛のテーマ,12.3
+MASTER,POPS&ANIME,徒花ネクロマンシー,12.2
+MASTER,POPS&ANIME,目覚めRETURNER,12.1
 MASTER,POPS&ANIME,ハッピー・ハッピー・フレンズ,12.4
 MASTER,POPS&ANIME,UNION,12.0
 MASTER,POPS&ANIME,BURST THE GRAVITY,12.1
@@ -452,6 +467,7 @@ MASTER,VARIETY,Bird Sprite,12.2
 MASTER,VARIETY,ETERNAL DRAIN,12.6
 MASTER,VARIETY,La Flesvelka,12.5
 MASTER,VARIETY,Papyrus,12.6
+MASTER,VARIETY,7 colors*,12.6
 MASTER,VARIETY,Reach for the Stars,12.3
 MASTER,VARIETY,The Concept of Love,12.3
 MASTER,VARIETY,Signs Of Love(“Never More” ver.),12.2
@@ -465,6 +481,7 @@ MASTER,VARIETY,Mass Destruction("P3" + "P3F" ver.),12.1
 MASTER,VARIETY,全ての人の魂の戦い(Daisuke Asakura Remix),12.4
 MASTER,VARIETY,The Pursuit of Speed,12.6
 MASTER,VARIETY,御旗のもとに,12.1
+MASTER,VARIETY,Be A Shooter！～NORMAL BIG BONUS～,12.2
 MASTER,イロドリミドリ,Change Our MIRAI！(Our 7 Lights),12.5
 MASTER,イロドリミドリ,無敵We are one！！,12.1
 MASTER,イロドリミドリ,ドキドキDREAM！！！,12.1
@@ -472,6 +489,7 @@ MASTER,イロドリミドリ,Still,12.5
 MASTER,イロドリミドリ,Session High⤴,12.6
 MASTER,イロドリミドリ,Shout Our Evidence!,12.5
 MASTER,イロドリミドリ,"STAR"T,12.4
+MASTER,イロドリミドリ,Road without Road,12.4
 MASTER,イロドリミドリ,私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察,12.5
 MASTER,イロドリミドリ,ハート・ビート,12.1
 MASTER,イロドリミドリ,猛進ソリストライフ！,12.2
@@ -502,6 +520,8 @@ MASTER,ゲキマイ,L'épilogue,12.5
 MASTER,ゲキマイ,D✪N’T ST✪P R✪CKIN’～[✪_✪] MIX～,12.5
 MASTER,ゲキマイ,高気圧ねこロック,12.6
 MASTER,ゲキマイ,夢花火,12.3
+MASTER,ゲキマイ,Zest of Blue,12.1
+MASTER,ゲキマイ,タテマエと本心の大乱闘,12.4
 MASTER,ORIGINAL,Infantoon Fantasy,12.4
 MASTER,ORIGINAL,砂漠のハンティングガール♡,12.1
 MASTER,ORIGINAL,Teriqma,12.3
@@ -649,6 +669,7 @@ MASTER,東方Project,魔理沙は大変なものを盗んでいきました,11.8
 MASTER,東方Project,チルノのパーフェクトさんすう教室,11.9
 MASTER,東方Project,Dreaming,11.7
 MASTER,東方Project,Unlimited Spark!,11.8
+MASTER,VARIETY,Ladymade Star,11.7
 MASTER,VARIETY,B.B.K.K.B.K.K.,11.8
 MASTER,VARIETY,Your Affection(Daisuke Asakura Remix),11.7
 MASTER,VARIETY,In The Blue Sky ’01,11.7
@@ -690,6 +711,8 @@ EXPERT,ORIGINAL,Iudicium,11.9
 EXPERT,ORIGINAL,Surveiller et punir,11.9
 EXPERT,ORIGINAL,せかいせいふく！ゆりあちゃん！,11.9
 EXPERT,ORIGINAL,Trackless wilderness,11.9
+EXPERT,ORIGINAL,Fidget Dancer,11.7
+MASTER,POPS&ANIME,nowhere,11.0
 MASTER,POPS&ANIME,気ままな天使たち,11.3
 MASTER,POPS&ANIME,▲MEW▲△MEW△CAKE,11.3
 MASTER,POPS&ANIME,野良猫ハート,11.5
@@ -802,6 +825,7 @@ EXPERT,VARIETY,Destr0yer,11.2
 EXPERT,VARIETY,R.I.P.,11.3
 EXPERT,VARIETY,AXION,11.0
 EXPERT,VARIETY,チョウの標本,11.1
+EXPERT,VARIETY,音弾超人ゴリライザー,11.0
 EXPERT,イロドリミドリ,燃えてもエンジョイ！宛城、炎上！！,11.2
 EXPERT,ゲキマイ,Like the Wind [Reborn],11.0
 EXPERT,ORIGINAL,GEMINI -C-,11.2
@@ -820,4 +844,3 @@ EXPERT,ORIGINAL,コモリの怪物,11.0
 EXPERT,ORIGINAL,暗晦にハイライト,11.0
 EXPERT,ORIGINAL,ユメキキョウ,11.3
 EXPERT,ORIGINAL,《混乱》 ～ Muspell,11.0
-EXPERT,ORIGINAL,《運命》 ～ Ray of Hope,11.4
